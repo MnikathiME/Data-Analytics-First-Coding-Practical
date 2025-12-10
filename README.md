@@ -12,15 +12,15 @@ HAVING
 CASE expressions
 
 3. Learning Objectives is to practise and focuses on mastering:
-> Basic SQL retrieving
+* Basic SQL retrieving
 Retrieve records using SELECT, return specific fields, and explore distinct values.
-> Filter conditions
+* Filter conditions
 Apply the WHERE clause using logical operators, ranges, exclusions, and categories.
-> Aggregations
+* Aggregations
 Perform data summarization using SUM, AVG, COUNT, MAX, MIN.
-> Grouping results
+* Grouping results
 Group data by categories to derive insights (e.g., revenue per gender or product category).
-> Conditional logic
+* Conditional logic
 Use the CASE statement to classify or categorize data within queries.
 
 4.Tools Used
